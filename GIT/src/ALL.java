@@ -4,6 +4,7 @@ public class ALL {
         System.out.println("呵呵,去洗澡");
         System.out.println("caonima");
         System.out.println("您");
+        System.out.println("gouzei");
 
     }
 }
